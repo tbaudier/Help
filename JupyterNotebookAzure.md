@@ -17,7 +17,7 @@ And you can upload your notebooks or create your first one. Open one Notebook an
 
   
 
-![](https://files.slack.com/files-pri/T7HSLC12Q-FV389DB3L/screenshot_2020-03-16_08.53.28.png)
+![](pictures/jupyterNotebookAzure1.png)
 
   
 
@@ -35,7 +35,7 @@ Kernel, and choose Change Kernel, and Python3.6
 
 Now you can see Python 3.6 on the top right:
 
-![](https://files.slack.com/files-pri/T7HSLC12Q-FV38X33NE/screenshot_2020-03-16_09.07.14.png)
+![](pictures/jupyterNotebookAzure2.png)
 
   
 
@@ -55,7 +55,7 @@ And you can see the following screen:
 
   
 
-![](https://files.slack.com/files-pri/T7HSLC12Q-FV4JARWTV/screenshot_2020-03-16_at_09.07.43.png)
+![](pictures/jupyterNotebookAzure3.png)
 
   
 
@@ -71,7 +71,7 @@ And you can see in a new tab this:
 
   
 
-![](https://files.slack.com/files-pri/T7HSLC12Q-F0101JSJRQU/screenshot_2020-03-16_at_09.09.30.png)
+![](pictures/jupyterNotebookAzure4.png)
 
   
 
