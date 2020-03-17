@@ -82,16 +82,13 @@ cat .nb.setup.log
 You can do it multiples times to display the content of this file. It is finished when you can see this:
 ![](pictures/jupyterNotebookAzure6.png)
 
-
-  
-
-The last line can take some minutes to install all require packages.
-
-  
+Now, return back to you notebook and click on ```Kernel/Restart```. The Kernel restart and you can enjoy your scripts.
+To check if everythin is ok, you can do in your notebook:
+```
+import itk
+```
 
 ## Last few things:
-
-  
 
 Now you can come back to you preferred Jupyter Notebook and execute it. But you need to know 2 things:
 
